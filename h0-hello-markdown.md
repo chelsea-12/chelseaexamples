@@ -12,4 +12,4 @@ And a bit more text.
 
 #### Advanced Tasks
 
-This website (https://google.com)] is handy!
+This website (https://google.com) is handy!
