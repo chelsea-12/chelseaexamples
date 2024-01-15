@@ -7,3 +7,5 @@ Insert some interesting text here...
     var markDown = "MarkDown"
 
 ### Here is another header
+
+And a bit more text.
