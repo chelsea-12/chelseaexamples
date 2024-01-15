@@ -9,3 +9,7 @@ I tried to take some screenshots throughout the process and quickly realised I n
 ![Trying to screenshot in Debian](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-01-15%20201900.png)
 
 ![Finished installation](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-01-15%20202914.png)
+
+## Podacast Summary
+
+## Article Summary
