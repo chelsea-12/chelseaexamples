@@ -12,6 +12,14 @@ I tried to take some screenshots throughout the process and quickly realised I n
 
 ## Podcast Summary
 
+Darknet Diaries Episode 95: Jon & Brian's Big Adventure
+This episode interviewed two penetration testers working at a place called RedTeam Security - they get paid to hack into buildings and networks in order to test their systems. The episode covered how they prepare and carry out these types of missions, and what can go wrong.
+
+- This seems like a very versatile job. Need to have a wide skill set in order to bypass both physical and virtual barriers. This is not just breaking into a digital environment, this is opening locked doors and evading security cameras.
+- Lots of mentioning 'raspberry pi', so I needed to look this up on Google: It's a small, cheap computer than runs Linux
+- When carrying out a job, these guys keep in constant contact with the companies they are trying to break into so they can try and avoid getting into unfortunate situations.
+- Some interesting techniques for them to try and break into buildings. A surprising one is that they look through company and employee social medias and websites to try and look at photos that may give away any important details (is there a dresscode in the office so they can fit in, can they see security cameras in pictures etc.). A surprising amount of detail can be gleamed from social media.
+- 
 
 ## Article Summary
 
