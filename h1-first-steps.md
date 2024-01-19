@@ -22,8 +22,8 @@ This episode interviewed two penetration testers working at a place called RedTe
   
 - When carrying out a job, these guys keep in constant contact with the companies they are trying to break into so they can try and avoid getting into unfortunate situations (only one point of contact - the security teams and employees do not know they are going to break in. Police are also notified ahead of time).
 - Some interesting techiques for them to try and break into buildings. A surprising one is that they look through company and employee social medias and websites to try and look at photos that may give away any important details (is there a dresscode in the office so they can fit in, can they see security cameras in pictures etc.). A surprising amount of detail can be gleamed from social media.
+- they are able to clone employee's security cards with a device, just by standing near them
 - Even when they get caught on one of these jobs, they can still get a lot of useful information (how well the security cameras work, or how vigilant staff are)
-- 
 
 ## Article Summary
 
