@@ -67,5 +67,18 @@
 
 ## Security Hygiene
 
+What security practices should everyone follow?
+- different passwords for different accounts
+- use strong passwords and multi-factor authentication
+- store these passwords in a password vault that is perferably not on the cloud
+- be cautious of clicking links online or in e-mails
+- use anti-virus/malware software and keep it up to date
+- use a VPN
+- never leave your computer logged in and unattended, or don't forget to log out of private accounts on public computers
+Find some more great tips [here](https://us.norton.com/blog/how-to/cybersecurity-basics)
+
+What security practices are important, but may not be suited for the 'average joe'?
+
+
 ## Threat Model
 
