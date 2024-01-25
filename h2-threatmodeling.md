@@ -25,15 +25,19 @@
 - What are we going to do about it: there should be a solution for each of the problems highlighted. Don't just forget about them or put them to the side, they must be treated as important
 - Risk management and threat modeling go hand-in-hand
 - Did we do a good job: would you recommend threat modeling to a colleague? The answer to this can answer the question 'did we do a good job?'
-  
 
 ### Chapter 1 Dive in and threat model [(link)](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
-Info here
+- threat modeling gets easier with practice
+- if you ever get confused with threat modeling, just refer back to key four questions
+- start with a simple diagram to see things clearly. Some people are already able to point out threats during this step
+- within your diagram you should specify who controls what, and when you do this you can circle certain parts of the diagram with a trust boundary to more easily define the areas that are controlled by different people
+- when things exit a trust boundary, they are most at risk of threat
+- 
 
 ### Threat modeling cheat sheet [(link)](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
-Info here
+
 
 ## Security Hygiene
 
