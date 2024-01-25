@@ -19,7 +19,13 @@
 - sketching and how this can help answer what we are working on, and lead into answering what can go wrong: this should be the first step as it's a non-permanent way to see the big picture
 - additionally to this records should be kept of the collaboration and sketches: can do this in a drawing tool (and through this you can maybe even further asnwer the question 'what can go wrong'
 - Data flow diagrams are important as threats tend to follow data. They are also easy to follow and draw.
-- Data flow diagrams have 5 symbols: external entities which is anything outside your control (square), 
+- Data flow diagrams have 5 symbols: external entities which is anything outside your control (square), processes which are things under your control(round), data flows to connect things (arrows), data stores (drums) and trust boundary (dotted line)
+- What can go wrong: sometimes we just need to give people a space to express what they are worried about, or sometimes we need to use certain techniques to figure this out
+- One of these techniques or structures is called STRIDE: stride stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, Elevation of privileges. These are each possible problems that can occur with any type of system, and it's important to think of at least one threat each from these
+- What are we going to do about it: there should be a solution for each of the problems highlighted. Don't just forget about them or put them to the side, they must be treated as important
+- Risk management and threat modeling go hand-in-hand
+- Did we do a good job: would you recommend threat modeling to a colleague? The answer to this can answer the question 'did we do a good job?'
+  
 
 ### Chapter 1 Dive in and threat model [(link)](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
