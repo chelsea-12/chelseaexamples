@@ -33,7 +33,7 @@
 - start with a simple diagram to see things clearly. Some people are already able to point out threats during this step
 - within your diagram you should specify who controls what, and when you do this you can circle certain parts of the diagram with a trust boundary to more easily define the areas that are controlled by different people
 - when things exit a trust boundary, they are most at risk of threat
-- this article explains stride in more detail than the previous article:
+- this article explains STRIDE in more detail than the previous article:
 - Spoofing is pretending to be something or someone you are not
 - Tampering is modifying something you are not supposed to modify
 - Repudiation is claiming you did not do something (whether you did it or not)
@@ -55,7 +55,15 @@
 
 ### Threat modeling cheat sheet [(link)](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
-
+- threat modeling requires a deep understanding of the system being evaluated, tehrefore improved visibility into a system is one advantage of threat modeling
+- threat modeling allows security to be built into the system rather than bolted on
+- in addition to STRIDE there is also PASTA and OCTAVE
+- OCTAVE: Operationally critical threat, asset and vulnerability evaluation
+- PASTA: Process for attack simulation and threat analysis
+- the data flow diagram can also help to answer 'what are we building' so you can gain further clarity into the system being created, and therefore what issues may arise
+- STRIDE and ATT&CK work well together: ATT&CK is a globally-accessible knowledge base of adversary tactics and techniques
+- response to the threat follows: mitigate, eliminate, transfer, accept
+- evaluating if you did a good job is the last step: did we accurately identify all possible threats, has the threat model been formally documented, can the agreed mitigations be tested?
 
 ## Security Hygiene
 
