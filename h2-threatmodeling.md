@@ -43,7 +43,15 @@
 - Using this whilst going through your diagram can help you to spot more threats
 - If you're not sure where to start when identifying threats, start with external entities. It is important to never ignore a potential threat and to focus on the feasible threats (it's easy to come up with large hypothetical scenarios, but how feasible are they to happen?)
 - Once you've figured out your threats, you can look at them in more detail and figure out what you are going to do
-- 
+- you can mitigate the threat (make it harder for people to take advantage of), eliminate the threat, transfer the threat (let someone more capable handle it), or accept the risk
+- the chapter then goes into specific detail about how to deal with potential threats identified using STRIDE. I will highly only one of each:
+- Spoofing a person: ensure each person has a unique username and way to authenticate themselves when loggin in
+- Tampering with a file: use digital signatures or a keyed MAC
+- Mitigating repudiation: ensure you keep security logs of everything
+- Disclosure of files: ensure files are encrypted
+- Network flooding (denial of service attacks): look for exhaustible resources and try to ensure the attacker's resoource consumption is as high or higher than yours
+- Memory corruption attacks (elevation of privilege): write code in a type-safe language
+- the final task of threat modeling is checking your work and developing your diagram further if needed
 
 ### Threat modeling cheat sheet [(link)](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
