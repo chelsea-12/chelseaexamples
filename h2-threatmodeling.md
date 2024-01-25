@@ -13,7 +13,13 @@
 
 ### World's shortest threat modeling course [(link)](https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf)
 
-info here
+- we threat model to anticipate problems when it's inexpensive to deal with them (i.e. if we leave them to later, they will be a lot more costly to deal with)
+- the video re-iterates the importance of the four question model that I touched on in the previous article's summary
+- What are we working on: collaboration and working together to help solve this question
+- sketching and how this can help answer what we are working on, and lead into answering what can go wrong: this should be the first step as it's a non-permanent way to see the big picture
+- additionally to this records should be kept of the collaboration and sketches: can do this in a drawing tool (and through this you can maybe even further asnwer the question 'what can go wrong'
+- Data flow diagrams are important as threats tend to follow data. They are also easy to follow and draw.
+- Data flow diagrams have 5 symbols: external entities which is anything outside your control (square), 
 
 ### Chapter 1 Dive in and threat model [(link)](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
