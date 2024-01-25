@@ -36,8 +36,7 @@
 - Spoofing is pretending to be something or someone you are not. Tampering is modifying something you are not supposed to modify. Repudiation is claiming you did not do something (whether you did it or not). Denial of service is when you stop a system from providing it's service. Information disclosure is releasing information that people do not want released. Elevation of privilege is a user being able to do things they should not be allowed to.
 - Using this whilst going through your diagram can help you to spot more threats
 - If you're not sure where to start when identifying threats, start with external entities. It is important to never ignore a potential threat and to focus on the feasible threats (it's easy to come up with large hypothetical scenarios, but how feasible are they to happen?)
-- Once you've figured out your threats, you can look at them in more detail and figure out what you are going to do
-- you can mitigate the threat (make it harder for people to take advantage of), eliminate the threat, transfer the threat (let someone more capable handle it), or accept the risk
+- Once you've figured out your threats, you can look at them in more detail and figure out what you are going to do. You can mitigate the threat (make it harder for people to take advantage of), eliminate the threat, transfer the threat (let someone more capable handle it), or accept the risk
 - the chapter then goes into specific detail about how to deal with potential threats identified using STRIDE. I will highlight only one of each:
 - Spoofing a person: ensure each person has a unique username and way to authenticate themselves when loggin in
 - Tampering with a file: use digital signatures or a keyed MAC
