@@ -2,7 +2,7 @@
 
 ## Article Summaries
 
-### Threat modeling manifesto [(link)](https://www.threatmodelingmanifesto.org
+### Threat modeling manifesto [(link)](https://www.threatmodelingmanifesto.org)
 
 info here
 
