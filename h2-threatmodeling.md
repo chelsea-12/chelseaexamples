@@ -76,6 +76,7 @@ What security practices should everyone follow?
 - use a VPN
 - back up your data
 - never leave your computer logged in and unattended, or don't forget to log out of private accounts on public computers
+  
 Find some more great tips [here](https://us.norton.com/blog/how-to/cybersecurity-basics)
 
 What security practices are important, but may not be suited for the 'average joe'?
@@ -83,6 +84,7 @@ What security practices are important, but may not be suited for the 'average jo
 - Endpoint Detection and Response (EDR) (it is deployed on endpoints such as laptops, networks and work stations and is used to detect suspicious behaaviours like network scanning or lateral network movement
 - Managed Detection and Response platform (MDR) which is used to catch threats such a zero-day attacks
 - e-mail hygeine to prevent phishing attacks: attachment sandboxing - opens attachments in a sandbox environment which is a protected virtual space that will not affect your actual computer
+  
 [Source](https://www.kroll.com/en/insights/publications/cyber/10-essential-cyber-security-controls)
 
 ## Threat Model
