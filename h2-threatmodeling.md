@@ -33,6 +33,16 @@
 - start with a simple diagram to see things clearly. Some people are already able to point out threats during this step
 - within your diagram you should specify who controls what, and when you do this you can circle certain parts of the diagram with a trust boundary to more easily define the areas that are controlled by different people
 - when things exit a trust boundary, they are most at risk of threat
+- this article explains stride in more detail than the previous article:
+- Spoofing is pretending to be something or someone you are not
+- Tampering is modifying something you are not supposed to modify
+- Repudiation is claiming you did not do something (whether you did it or not)
+- Denial of service is when you stop a system from providing it's service
+- Information disclosure is releasing information that people do not want released
+- Elevation of privilege is a user being able to do things they should not be allowed to
+- Using this whilst going through your diagram can help you to spot more threats
+- If you're not sure where to start when identifying threats, start with external entities. It is important to never ignore a potential threat and to focus on the feasible threats (it's easy to come up with large hypothetical scenarios, but how feasible are they to happen?)
+- Once you've figured out your threats, you can look at them in more detail and figure out what you are going to do
 - 
 
 ### Threat modeling cheat sheet [(link)](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
@@ -42,5 +52,4 @@
 ## Security Hygiene
 
 ## Threat Model
-
 
