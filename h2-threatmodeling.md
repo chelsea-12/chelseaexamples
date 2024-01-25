@@ -28,8 +28,7 @@
 
 ### Chapter 1 Dive in and threat model [(link)](https://www.oreilly.com/library/view/threat-modeling-designing/9781118810057/9781118810057c01.xhtml#c1)
 
-- threat modeling gets easier with practice
-- if you ever get confused with threat modeling, just refer back to key four questions
+
 - start with a simple diagram to see things clearly. Some people are already able to point out threats during this step
 - within your diagram you should specify who controls what, and when you do this you can circle certain parts of the diagram with a trust boundary to more easily define the areas that are controlled by different people
 - when things exit a trust boundary, they are most at risk of threat
