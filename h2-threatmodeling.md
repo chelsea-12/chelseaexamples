@@ -29,8 +29,7 @@ The highest prioritisation is the safe management of customer data and the handl
 
 The website server is managed by IT specialists only, whereas customer data needs to be accessed by multiple departments which leaves this as the most vulnerable asset. Stock levels are managed by warehouse staff, but data from this will be communicated to other departments, for example, when new stock is ordered and payment receipts are sent to the finance department.
 
-INSERT DIAGRAM
-
+![Data FLow Diagram](https://github.com/chelsea-12/chelseaexamples/blob/main/20240126_105743.jpg)
 
 
 
