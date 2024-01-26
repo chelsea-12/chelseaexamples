@@ -32,6 +32,8 @@ The website server is managed by IT specialists only, whereas customer data need
 
 WHAT CAN GO WRONG?
 
+Using STRIDE, I have come up with the following potential threats.
+
 - Data breaches are the biggest concern - having someone gain access to customers personal information (name, address, phone number etc.) as well as their payment information
 - Denial of service attacks on the website which can put the business fully out of operation and lead to a loss in sales
 - Accessing the system through employee credentials and being able to see sensitive business information
@@ -51,6 +53,7 @@ WHAT ARE WE GOING TO DO ABOUT IT?
 - This should be even more stringent for employees. Usernames should not contain personal information, and passwords should be hard to guess and changed monthly
 - IT department should hold periodic cyber security training for all employees (not opening suspicious links to prevent phishing attacks!)
 - IT department should keep security logs
+- strong encryption protocols for data
 - Physical security of warehouse premises should be outsourced to a reputable security firm
 - backup data on a secure, off-site location
 - stock management system can be kept on the cloud (e.g. Salesforce) to transer risk to a reputable company
@@ -62,9 +65,17 @@ WHAT ARE WE GOING TO DO ABOUT IT?
   
 DID WE DO A GOOD ENOUGH JOB?
 
+To ensure a good job is being done:
+- customer feedback/complaints should be followed closely in order to ensure there are no security concerns
+- hold periodic cyber security training sessions (mimic a data breach/DoS attack and what are the responses to this)
+- update the threat security diagram as and when needed
+- ensure each potential threat has a solution, and that this solution works (and continues to work!)
+- therefore, regular security audits are key
 
-
-Sources that helped me write this threat model in addition to the four linked articles below include ********
+Sources that helped me write this threat model in addition to the four linked articles below include
+- [Crowdstrike](https://www.crowdstrike.com/cybersecurity-101/threat-modeling/)
+- [J.P.Morgan](https://www.jpmorgan.com/insights/cybersecurity/ransomware/12-tips-for-mitigating-cyber-risk)
+- [NSA](https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf)
 
 ## Article Summaries
 
