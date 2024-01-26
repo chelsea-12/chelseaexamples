@@ -31,7 +31,18 @@ The website server is managed by IT specialists only, whereas customer data need
 
 ![Data FLow Diagram](https://github.com/chelsea-12/chelseaexamples/blob/main/20240126_105743.jpg)
 
+WHAT CAN GO WRONG?
 
+- Data breaches are the biggest concern - having someone gain access to customers personal information (name, address, phone number etc.) as well as their payment information
+- Denial of service attacks on the website which can put the business fully out of operation and lead to a loss in sales
+- Payment fraud
+- Accessing the system through employee credentials and being able to see sensitive business information
+- Digital tampering with the stock management system which can cause chaos to the business
+- Threat of theft from physical access to the warehouse
+
+Highest risk value would be a data breach of sensitive customer data - is a breach of trust for the customers leading to a loss of sales and potential legal action
+
+Potential threat actors can be hackers looking for private information to sell or DoS attackers looking to shut down websites for financial gain.
 
 Sources that helped me write this threat model in addition to the four linked articles below include ********
 
