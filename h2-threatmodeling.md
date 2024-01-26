@@ -1,5 +1,9 @@
 # H2
 
+## Threat Model
+
+
+
 ## Article Summaries
 
 ### Threat modeling manifesto [(link)](https://www.threatmodelingmanifesto.org)
@@ -79,6 +83,4 @@ What security practices are important, but may not be suited for the 'average jo
 - e-mail hygeine to prevent phishing attacks: attachment sandboxing - opens attachments in a sandbox environment which is a protected virtual space that will not affect your actual computer
   
 [Source](https://www.kroll.com/en/insights/publications/cyber/10-essential-cyber-security-controls)
-
-## Threat Model
 
