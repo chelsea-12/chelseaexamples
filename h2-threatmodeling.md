@@ -48,7 +48,7 @@ Potential threat actors can be hackers looking for private information to sell o
 
 WHAT ARE WE GOING TO DO ABOUT IT?
 
-- For potential payment frauds, it is best to mitigate this risk but transferring it to a certified payment specialist. Have payments on the website be made through this 3rd party provider that has a known a reputable track record for safety
+- For potential payment frauds, it is best to mitigate this risk by transferring it to a certified payment specialist. Have payments on the website be made through this 3rd party provider that has a known and reputable track record for safety
 - Customers and employees should need to authenticate when they log in/create an account
 - This should be even more stringent for employees. Usernames should not contain personal information, and passwords should be hard to guess and changed monthly
 - IT department should hold periodic cyber security training for all employees (not opening suspicious links to prevent phishing attacks!)
