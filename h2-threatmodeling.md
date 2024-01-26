@@ -2,7 +2,21 @@
 
 ## Threat Model
 
-
+Company name: PetFood
+An online pet food store where customers can buy food online, and have it shipped to their home. Customers have private accounts on the website, and can have recurring subscriptions to food items so they do not need to do seperate orders, for example, each month. Customers can also pay for a boutique experience where they have a consultation with a vet nutritionist and tailor make a nutrition plan for their pet.
+PetFood operates out of multiple warehouse locations across Europe, with office spaces on-site at each warehouse, as well as a corporate location in Helsinki.
+PetFood is currently operating with around 100 staff members across all the locations, and positions vary. Positions include, but are not limited to:
+- warehouse logistics
+- warehouse staff (packers)
+- vet nutritionists
+- online customer service representatives
+- quality assurance
+- marketing
+- E-commerce manager
+- IT manager
+- HR manager
+- Admin
+- CEO
 
 ## Article Summaries
 
