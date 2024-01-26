@@ -54,6 +54,7 @@ WHAT ARE WE GOING TO DO ABOUT IT?
 - IT department should hold periodic cyber security training for all employees (not opening suspicious links to prevent phishing attacks!)
 - IT department should keep security logs
 - strong encryption protocols for data
+- encrypt internal e-mails between employees
 - Physical security of warehouse premises should be outsourced to a reputable security firm
 - backup data on a secure, off-site location
 - stock management system can be kept on the cloud (e.g. Salesforce) to transer risk to a reputable company
