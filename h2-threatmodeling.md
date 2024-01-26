@@ -4,13 +4,12 @@
 
 Company name: PetFood
 
-An online pet food store where customers can buy food online, and have it shipped to their home. Customers have private accounts on the website, and can have recurring subscriptions to food items so they do not need to do seperate orders, for example, each month. Customers can also pay for a boutique experience where they have a consultation with a vet nutritionist and tailor make a nutrition plan for their pet.
+An online pet food store where customers can buy food online, and have it shipped to their home. Customers have private accounts on the website, and can have recurring subscriptions to food items so they do not need to do seperate orders, for example, each month.
 PetFood operates out of multiple warehouse locations across Europe, with office spaces on-site at each warehouse, as well as a corporate location in Helsinki.
 
 PetFood is currently operating with around 100 staff members across all the locations, and positions vary. Positions include, but are not limited to:
 - warehouse logistics
 - warehouse staff (packers)
-- vet nutritionists
 - online customer service representatives
 - quality assurance
 - marketing
@@ -40,9 +39,13 @@ WHAT CAN GO WRONG?
 - Digital tampering with the stock management system which can cause chaos to the business
 - Threat of theft from physical access to the warehouse
 
-Highest risk value would be a data breach of sensitive customer data - is a breach of trust for the customers leading to a loss of sales and potential legal action
+Highest risk value would be a data breach of sensitive customer data - is a breach of trust for the customers leading to a loss of sales and potential legal action. Second highest risk value is a DoS attack on the website - as this is a company that runs solely online, if the website is shut down it can lead to a huge loss in business even if for a short period of time.
 
-Potential threat actors can be hackers looking for private information to sell or DoS attackers looking to shut down websites for financial gain.
+Potential threat actors can be hackers looking for private information to sell or DoS attackers looking to shut down websites for financial gain. Phishing attacks on employees can also be a risk.
+
+WHAT ARE WE GOING TO DO ABOUT IT?
+
+
 
 Sources that helped me write this threat model in addition to the four linked articles below include ********
 
