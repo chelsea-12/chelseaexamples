@@ -34,8 +34,9 @@ WHAT CAN GO WRONG?
 
 - Data breaches are the biggest concern - having someone gain access to customers personal information (name, address, phone number etc.) as well as their payment information
 - Denial of service attacks on the website which can put the business fully out of operation and lead to a loss in sales
-- Payment fraud
 - Accessing the system through employee credentials and being able to see sensitive business information
+- Accessing customer accounts and making fraudulent orders
+- Payment fraud (i.e. not a valid payment method used) 
 - Digital tampering with the stock management system which can cause chaos to the business
 - Threat of theft from physical access to the warehouse
 
@@ -44,6 +45,22 @@ Highest risk value would be a data breach of sensitive customer data - is a brea
 Potential threat actors can be hackers looking for private information to sell or DoS attackers looking to shut down websites for financial gain. Phishing attacks on employees can also be a risk.
 
 WHAT ARE WE GOING TO DO ABOUT IT?
+
+- For potential payment frauds, it is best to mitigate this risk but transferring it to a certified payment specialist. Have payments on the website be made through this 3rd party provider that has a known a reputable track record for safety
+- Customers and employees should need to authenticate when they log in/create an account
+- This should be even more stringent for employees. Usernames should not contain personal information, and passwords should be hard to guess and changed monthly
+- IT department should hold periodic cyber security training for all employees (not opening suspicious links to prevent phishing attacks!)
+- IT department should keep security logs
+- Physical security of warehouse premises should be outsourced to a reputable security firm
+- backup data on a secure, off-site location
+- stock management system can be kept on the cloud (e.g. Salesforce) to transer risk to a reputable company
+- ensure firewalls, anti-virus and anti-malware software are upto date
+- continously monitor network traffic, and employ network segemenation
+- make sure access to sensitive data is limited
+- have an action plan in case any of the potential threats occurs so it can be dealt with as swiftly and efficiently as possible
+
+  
+DID WE DO A GOOD ENOUGH JOB?
 
 
 
