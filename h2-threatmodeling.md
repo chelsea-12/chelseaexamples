@@ -152,9 +152,9 @@ Find some more great tips [here](https://us.norton.com/blog/how-to/cybersecurity
 
 What security practices are important, but may not be suited for the 'average joe'?
 - browsing in private windows (may seem straight-forward, but not everyone knows this is a choice)
-- Endpoint Detection and Response (EDR) (it is deployed on endpoints such as laptops, networks and work stations and is used to detect suspicious behaaviours like network scanning or lateral network movement
+- Endpoint Detection and Response (EDR) (it is deployed on endpoints such as laptops, networks and work stations and is used to detect suspicious behaviours like network scanning or lateral network movement
 - Managed Detection and Response platform (MDR) which is used to catch threats such a zero-day attacks
-- e-mail hygeine to prevent phishing attacks: attachment sandboxing - opens attachments in a sandbox environment which is a protected virtual space that will not affect your actual computer
+- e-mail hygiene to prevent phishing attacks: attachment sandboxing - opens attachments in a sandbox environment which is a protected virtual space that will not affect your actual computer
   
 [Source](https://www.kroll.com/en/insights/publications/cyber/10-essential-cyber-security-controls)
 
