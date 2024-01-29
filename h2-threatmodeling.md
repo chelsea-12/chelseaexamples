@@ -126,7 +126,7 @@ Sources that helped me write this threat model in addition to the four linked ar
 
 ### Threat modeling cheat sheet [(link)](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html)
 
-- threat modeling requires a deep understanding of the system being evaluated, tehrefore improved visibility into a system is one advantage of threat modeling
+- threat modeling requires a deep understanding of the system being evaluated, therefore improved visibility into a system is one advantage of threat modeling
 - threat modeling allows security to be built into the system rather than bolted on
 - in addition to STRIDE there is also PASTA and OCTAVE
 - OCTAVE: Operationally critical threat, asset and vulnerability evaluation
@@ -141,7 +141,7 @@ Sources that helped me write this threat model in addition to the four linked ar
 What security practices should everyone follow?
 - different passwords for different accounts
 - use strong passwords and multi-factor authentication
-- store these passwords in a password vault that is perferably not on the cloud
+- store these passwords in a password vault that is preferably not on the cloud
 - be cautious of clicking links online or in e-mails
 - use anti-virus/malware software and keep it up to date
 - use a VPN
