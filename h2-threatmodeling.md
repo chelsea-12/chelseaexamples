@@ -95,7 +95,7 @@ Sources that helped me write this threat model in addition to the four linked ar
 - the video re-iterates the importance of the four question model that I touched on in the previous article's summary
 - What are we working on: collaboration and working together to help solve this question
 - sketching and how this can help answer what we are working on, and lead into answering what can go wrong: this should be the first step as it's a non-permanent way to see the big picture
-- additionally to this records should be kept of the collaboration and sketches: can do this in a drawing tool (and through this you can maybe even further asnwer the question 'what can go wrong'
+- additionally to this records should be kept of the collaboration and sketches: can do this in a drawing tool (and through this you can maybe even further answer the question 'what can go wrong'
 - Data flow diagrams are important as threats tend to follow data. They are also easy to follow and draw.
 - Data flow diagrams have 5 symbols: external entities which is anything outside your control (square), processes which are things under your control(round), data flows to connect things (arrows), data stores (drums) and trust boundary (dotted line)
 - What can go wrong: sometimes we just need to give people a space to express what they are worried about, or sometimes we need to use certain techniques to figure this out
