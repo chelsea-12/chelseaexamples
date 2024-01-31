@@ -14,3 +14,5 @@ Once this small, but very large, issue was solved I was able to move on.
 ## SQLZoo
 
 ## Portswigger Labs
+
+This was relatively easy to solve with the provided information from the Portswigger website however, understanding *why* this was the solution took quite a bit longer.
