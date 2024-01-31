@@ -17,4 +17,6 @@ Once this small, but very large, issue was solved I was able to move on.
 
 This was relatively easy to solve with the provided information from the Portswigger website however, understanding *why* this was the solution took quite a bit longer.
 
+![SQL Injection](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-01-31%20092041.png)
+
 
