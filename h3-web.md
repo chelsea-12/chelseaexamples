@@ -27,7 +27,7 @@
 - some of the more common injections are SQL, NoSQL, ORM or OGNL with the concept being identical among all of them
 - source code review is the best methos of detecting if applications are vulnerable to injections
 - preventing injection requires keeping data seperate from commands and queries
-- prevention methods include: using LIMIT or other SQL controls within queries to prevent mass disclosure of records, using a positive server-side input validations, or use a safe API
+- prevention methods include: using LIMIT or other SQL controls within queries to prevent mass disclosure of records, using positive server-side input validations, or use a safe API
 
 
 ## WebGoat 2023.4
