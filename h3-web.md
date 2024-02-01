@@ -21,7 +21,15 @@ The first task in the Developer Tools section was straightforward and involved i
 
 The second task stumped me for a little longer. We needed to enter the Network tab, generate an HTTP request on the website and find the Network Number. When generating an HTTP request, the Network tab shows a large number of GET responses, whereas we are looking for the POST response. If you are not fast enough with locating this, it can get lost in the list. Once you click on the POST response, I then needed to navigate to the request tab to find the required number. It took a bit of clicking around on the different tabs to figure this out.
 
-![Second Task]()
+![Second Task](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101200.png)
+
+Next, I made sure my Linux was updated. Initially I tried inputting the update commands into the same command line window that I used to start up WebGoat, and unfortunately it did not work. I initially thought I was inputting the commands wrong, and tried different ways to write them as you can see in this screenshot.
+
+![Error when updating]()
+
+I then got it to work by inputting the commands into a fresh command window.
+
+![Updating success]()
 
 
 
