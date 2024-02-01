@@ -17,7 +17,11 @@ I started up WebGoat by inputting this into the Command Line on Linux.
 
 The first task in the Developer Tools section was straightforward and involved inputting a command into the console window and getting a return value.
 
-![First Task]()
+![First Task](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101131.png)
+
+The second task stumped me for a little longer. We needed to enter the Network tab, generate an HTTP request on the website and find the Network Number. When generating an HTTP request, the Network tab shows a large number of GET responses, whereas we are looking for the POST response. If you are not fast enough with locating this, it can get lost in the list. Once you click on the POST response, I then needed to navigate to the request tab to find the required number. It took a bit of clicking around on the different tabs to figure this out.
+
+![Second Task]()
 
 
 
