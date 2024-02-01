@@ -32,8 +32,6 @@ I then got it to work by inputting the commands into a fresh command window.
 ![Updating success](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101727.png)
 
 
-## SQLZoo
-
 ## Portswigger Labs
 
 This was relatively easy to solve with the provided information from the Portswigger website however, understanding *why* this was the solution took quite a bit longer.
@@ -51,3 +49,12 @@ If we add the following onto the end of the URL, it manipulates the system into 
 As 1=1 is always a true return (Boolean condition), this returns all items. The ' at the start is crucial, as this checks for anomalies. Likewise the -- is also crucial as it is a comment indicator, meaning anything after that is treated as a comment and ignored. In this case, it is ignoring the 'AND released = 1' which would show us only the released items.
 
 
+## SQLZoo
+
+
+SQLZoo helped me to understand the Portswigger Lab better, as it went to a more basic level about SQL commands and queries. This was extremely helpful to broaden my understanding! Part 0 invovled modifying the SQL commands to yeild different results.
+
+![Basics SQLZoo]()
+
+
+**Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course**
