@@ -62,8 +62,15 @@ The second part ot this exercise delved into this in more detail and at times I 
 
 These exercises got increasingly more complicated as I went on, and I found the helpful hints and the previous 'BASIC' page key to solving the issues. It was a very good exercise to not only see what SQL commands can be used, but to actually write and input them myself which I find helps with memory retention.
 
-I also found [this](https://thedatasleuth.github.io/2018/08/11/SELECT-Basics.html) website helpful if I got really stuck with any exercise, such as with this one. I wasn't sure what the syntax was for searching for a name that inludes something. In this case 'United'.
+I also found [this](https://thedatasleuth.github.io/2018/08/11/SELECT-Basics.html) website helpful if I got really stuck with any exercise, such as with this one. I wasn't sure what the syntax was for searching for a name that inludes something. In this case 'United' (although if I had completed Exercise 1 from SQLZoo, this would have helped also!).
 
 ![Percentage syntax](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20115230.png)
+
+The final exercise took a bit of time to solve as I did not initally think I needed to include a new 'AND' in between all of the conditions.
+
+![Final exercise]()
+
+
+The IN, LIKE, NOT LIKE, XOR, ROUND, LEFT and LENGTH function are new to me as I have only learnt Javascript so far. Likewise expressing 'not equal to' as '<>' is new for me. It's interesting to learn the different ways to express these in new languages. 
 
 **Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course.**
