@@ -29,8 +29,7 @@ Next, I made sure my Linux was updated. Initially I tried inputting the update c
 
 I then got it to work by inputting the commands into a fresh command window.
 
-![Updating success]()
-
+![Updating success](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101727.png)
 
 
 ## SQLZoo
