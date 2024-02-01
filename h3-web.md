@@ -1,6 +1,14 @@
 # H3
 
-## Article Summaries
+## Article Summaries from OWASP 10 2021
+
+### [Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
+
+
+### [Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
+
+
+### [Injection](https://owasp.org/Top10/A03_2021-Injection/)
 
 ## WebGoat 2023.4
 
