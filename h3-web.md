@@ -23,9 +23,9 @@ The second task stumped me for a little longer. We needed to enter the Network t
 
 ![Second Task](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101200.png)
 
-Next, I made sure my Linux was updated. Initially I tried inputting the update commands into the same command line window that I used to start up WebGoat, and unfortunately it did not work. I initially thought I was inputting the commands wrong, and tried different ways to write them as you can see in this screenshot.
+Next, I made sure my Linux was updated. Initially I tried inputting the update commands into the same command line window that I used to start up WebGoat, and unfortunately it did not work. I initially thought I was inputting the commands wrong, and tried different ways to write them as you can see in the bottom of this screenshot.
 
-![Error when updating]()
+![Error when updating](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20101706.png)
 
 I then got it to work by inputting the commands into a fresh command window.
 
