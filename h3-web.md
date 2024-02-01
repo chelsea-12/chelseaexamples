@@ -68,7 +68,7 @@ I also found [this](https://thedatasleuth.github.io/2018/08/11/SELECT-Basics.htm
 
 The final exercise took a bit of time to solve as I did not initally think I needed to include a new 'AND' in between all of the conditions.
 
-![Final exercise]()
+![Final exercise](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20120920.png)
 
 
 The IN, LIKE, NOT LIKE, XOR, ROUND, LEFT and LENGTH function are new to me as I have only learnt Javascript so far. Likewise expressing 'not equal to' as '<>' is new for me. It's interesting to learn the different ways to express these in new languages. 
