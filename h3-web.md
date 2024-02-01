@@ -5,13 +5,30 @@
 ### [Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
 - a shift into more highly configurable software has seen more incidences of some form of misconfiguration
-- a few examples of when applications could be vulnerable: unnecessary features are enabled or installed, default accounts are still enabled and passwords unchanged, the software is out of date or vulnerable.
+- a few examples of when applications could be vulnerable: unnecessary features are enabled or installed, default accounts are still enabled and passwords unchanged, the software is out of date or vulnerable and latest security features disabled.
+- some examples of how to prevent this from happening: segmented application architecture, a minimal platform without any unnecessary features and an automated process to verify the effectivenment of the configurations and settings in all environments.
 
 
 ### [Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
 
 
+- vulnerable components are a known issue that are difficult to test and assess the risk of.
+- you can be vulnerable to this if: the software is vulnerable, unsupported or out of fate, you do not scan for vulnerabilities often, you do not fix or upgrade the underlying platform framworks and dependencies quickly enough or if you do not secure the components' configuations.
+- you can try to prevent this with a patch management process which can: remove unused dependencies, only obtain components from official sources over secure links and monitor for libraries and components that are unmaintained.
+- it is important that every organization must ensure an ongoing plan for monitoring, triaging and applying updates or configuration changes for the lifetime of the application or portfolio
+-IoT devices can be a good example of a vulnerable component
+
+
 ### [Injection](https://owasp.org/Top10/A03_2021-Injection/)
+
+
+- in 2021, injection was ranked number three on the list of most common cyber security threats
+- injection can occur when: hostile data is directly used or concatenated, hostile data is used within object-relational mapping search parameters or when user-supplied data is not validated, filtered or sanitized by the application
+- some of the more common injections are SQL, NoSQL, ORM or OGNL with the concept being identical among all of them
+- source code review is the best methos of detecting if applications are vulnerable to injections
+- preventing injection requires keeping data seperate from commands and queries
+- prevention methods include: using LIMIT or other SQL controls within queries to prevent mass disclosure of records, using a positive server-side input validations, or use a safe API
+
 
 ## WebGoat 2023.4
 
