@@ -16,7 +16,7 @@
 - you can be vulnerable to this if: the software is vulnerable, unsupported or out of date, you do not scan for vulnerabilities often, you do not fix or upgrade the underlying platform frameworks and dependencies quickly enough or if you do not secure the components' configurations.
 - you can try to prevent this with a patch management process which can: remove unused dependencies, only obtain components from official sources over secure links and monitor for libraries and components that are unmaintained.
 - it is important that every organization must ensure an ongoing plan for monitoring, triaging and applying updates or configuration changes for the lifetime of the application or portfolio
--IoT devices can be a good example of a vulnerable component
+- IoT devices can be a good example of a vulnerable component
 
 
 ### [Injection](https://owasp.org/Top10/A03_2021-Injection/)
