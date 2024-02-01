@@ -11,6 +11,10 @@ I also solved the Developer Tools during class time. This actually took more tim
 
 Once this small, but very large, issue was solved I was able to move on.
 
+The first task in the Developer Tools section was straightforward and involved inputting a command into the console window and getting a return value.
+
+
+
 ## SQLZoo
 
 ## Portswigger Labs
