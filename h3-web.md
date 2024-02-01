@@ -40,4 +40,14 @@ This was relatively easy to solve with the provided information from the Portswi
 
 ![SQL Injection](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-01-31%20092041.png)
 
+My understanding is that SQL injection is when someone tries to extract information from your web server by inserting malicious SQL (SQL being the programming language for databases) code. In this instance, the malicious code is inserted via the website's URL. We are attempting to see items that are not otherwise possible to view. By navigating to the website and clicking on 'Gifts', we are sending an SQL query to retrieve the requested items from the database and display them. This is what the SQL query is asking: FROM products WHERE category = 'Gifts' AND released = 1.
+
+The most crucial part here is the = 1. This is a restriction that ensures only released products are shown. 
+
+If we add the following onto the end of the URL, it manipulates the system into showing the unreleased products
+
+> '+OR+1=1--
+
+As 1=1 is always a true return (Boolean condition), this returns all items. The ' at the start is crucial, as this checks for anomalies. Likewise the -- is also crucial as it is a comment indicator, meaning anything after that is treated as a comment and ignored. In this case, it is ignoring the 'AND released = 1' which would show us only the released items.
+
 
