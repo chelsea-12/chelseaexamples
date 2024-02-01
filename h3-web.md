@@ -4,6 +4,9 @@
 
 ### [Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
 
+- a shift into more highly configurable software has seen more incidences of some form of misconfiguration
+- a few examples of when applications could be vulnerable: unnecessary features are enabled or installed, default accounts are still enabled and passwords unchanged, the software is out of date or vulnerable.
+
 
 ### [Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
 
