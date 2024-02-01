@@ -11,7 +11,13 @@ I also solved the Developer Tools during class time. This actually took more tim
 
 Once this small, but very large, issue was solved I was able to move on.
 
+I started up WebGoat by inputting this into the Command Line on Linux.
+
+![WebGoat](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20100807.png)
+
 The first task in the Developer Tools section was straightforward and involved inputting a command into the console window and getting a return value.
+
+![First Task]()
 
 
 
