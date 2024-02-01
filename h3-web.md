@@ -60,5 +60,9 @@ The second part ot this exercise delved into this in more detail and at times I 
 
 ![SQLZoo Part 2](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20113317.png)
 
+These exercises got increasingly more complicated as I went on, and I found the helpful hints and the previous 'BASIC' page key to solving the issues. It was a very good exercise to not only see what SQL commands can be used, but to actually write and input them myself which I find helps with memory retention.
 
-**Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course**
+I also found [this](https://thedatasleuth.github.io/2018/08/11/SELECT-Basics.html) website helpful if I got really stuck with any exercise, such as with this one. I wasn't sure what the syntax was for searching for a name that inludes something. In this case 'United'.
+
+
+**Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course.**
