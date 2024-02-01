@@ -58,7 +58,7 @@ SQLZoo helped me to understand the Portswigger Lab better, as it went to a more 
 
 The second part ot this exercise delved into this in more detail and at times I needed to call on some of my programming knowledge from my previous 'Introduction to Software Development' course. Such as with this example where I needed to show countries with a population equal to or greater than 200 million.
 
-![SQLZoo Part 2]()
+![SQLZoo Part 2](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20113317.png)
 
 
 **Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course**
