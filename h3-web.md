@@ -64,5 +64,6 @@ These exercises got increasingly more complicated as I went on, and I found the 
 
 I also found [this](https://thedatasleuth.github.io/2018/08/11/SELECT-Basics.html) website helpful if I got really stuck with any exercise, such as with this one. I wasn't sure what the syntax was for searching for a name that inludes something. In this case 'United'.
 
+![Percentage syntax](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-01%20115230.png)
 
 **Overall, I really enjoyed this introduction to hacking and it's extremely interesting learning about the potential flaws in systems that can be taken advantage of. I look forward to learning about this in more detail on this course.**
