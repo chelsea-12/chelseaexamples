@@ -6,7 +6,7 @@
 
 - a shift into more highly configurable software has seen more incidences of some form of misconfiguration
 - a few examples of when applications could be vulnerable: unnecessary features are enabled or installed, default accounts are still enabled and passwords unchanged, the software is out of date or vulnerable and latest security features disabled.
-- some examples of how to prevent this from happening: segmented application architecture, a minimal platform without any unnecessary features and an automated process to verify the effectivenment of the configurations and settings in all environments.
+- some examples of how to prevent this from happening: segmented application architecture, a minimal platform without any unnecessary features and an automated process to verify the effectiveness of the configurations and settings in all environments.
 
 
 ### [Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
