@@ -25,7 +25,7 @@
 - in 2021, injection was ranked number three on the list of most common cyber security threats
 - injection can occur when: hostile data is directly used or concatenated, hostile data is used within object-relational mapping search parameters or when user-supplied data is not validated, filtered or sanitized by the application
 - some of the more common injections are SQL, NoSQL, ORM or OGNL with the concept being identical among all of them
-- source code review is the best methos of detecting if applications are vulnerable to injections
+- source code review is the best method of detecting if applications are vulnerable to injections
 - preventing injection requires keeping data seperate from commands and queries
 - prevention methods include: using LIMIT or other SQL controls within queries to prevent mass disclosure of records, using positive server-side input validations, or use a safe API
 
