@@ -13,11 +13,29 @@
 ## Encrypt and Decrypt
 
 
-I referred to [Tero's Guide](https://terokarvinen.com/2023/pgp-encrypt-sign-verify/) to try out PGP (Pretty Good Privacy). PGP is a security program used to encrypt and decrypt email and to authenticate email messages through digital signatures and file encryption. PGP was one of the first public-key cryptography softwares publicly available for free [(source)](https://www.fortinet.com/resources/cyberglossary/pgp-encryption).
+I referred to [Tero's Guide](https://terokarvinen.com/2023/pgp-encrypt-sign-verify/) to try out PGP (Pretty Good Privacy) within Linux by simulating two users. PGP is a security program used to encrypt and decrypt email and to authenticate email messages through digital signatures and file encryption. PGP was one of the first public-key cryptography softwares publicly available for free [(source)](https://www.fortinet.com/resources/cyberglossary/pgp-encryption).
 
 After installing the required tools I went ahead and generated a key.
 
 ![Public Key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20140359.png)
+
+I exported my key, which looks like this:
+
+
+[key]()
+
+
+Then I went ahead and set up my second simulated user, Alice, by inputting this into the command line.
+
+>$ cd
+$ mkdir alice/
+$ chmod og-rwx alice/
+$ cd alice/
+$ gpg --homedir . --fingerprint
+gpg: keybox '/home/tero/alice/pubring.kbx' created
+gpg: /home/tero/alice/trustdb.gpg: trustdb created
+$ gpg --homedir . --fingerprint
+
 
 ## Cracking Cyphertext
 
