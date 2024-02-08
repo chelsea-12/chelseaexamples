@@ -17,7 +17,7 @@ I referred to [Tero's Guide](https://terokarvinen.com/2023/pgp-encrypt-sign-veri
 
 After installing the required tools I went ahead and generated a key.
 
-
+![Public Key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20140359.png)
 
 ## Cracking Cyphertext
 
