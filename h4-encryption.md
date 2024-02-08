@@ -47,7 +47,9 @@ I then imported Alice's key (alice.pub) and verified it myself. Now both Alice a
 
 I then transferred the file, to simulate sending it, and used the command line to decrypt the message. Everything went well!
 
-![Decrypted Message]()
+![Decrypted Message](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20151620.png)
+
+You can see here Tero's email address rather 
 
 
 
