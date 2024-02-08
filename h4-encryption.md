@@ -41,7 +41,7 @@ While within Alice's directory, I created a key for her, and then transferred my
 ![trusted key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20144401.png)
 
 
-I then imported Alice's key (alice.pub) and verified it myself. Now both Alice and I have eachothers public keys so we can send messages to one another and sign them to ensure we know the message has been sent by that person. As Alice, I wrote a plain text message and encrypted it, ready to send. It was at this point that I realised I made a mistake, as I had initally started this exercise using Tero's example literally and then changed my mind half way through and made a new e-mail address. At this point I realised it would be easier just to stick with Tero's email address as this was what I created first!
+I then imported Alice's key (alice.pub) and verified it myself. Now both Alice and I have eachothers public keys so we can send messages to one another and sign them to ensure we know the message has been sent by that person. As Alice, I wrote a plain text message and encrypted it, ready to send. It was at this point that I realised I made a mistake, as I had initally started this exercise using Tero's example literally and then changed my mind half way through and made a new e-mail address. At this point I realised it would be easier just to stick with Tero's email address as this was what I created first, and I was having issues with establishing the trust towards Alice.
 
 ![encrypted message](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20150022.png)
 
@@ -49,7 +49,7 @@ I then transferred the file, to simulate sending it, and used the command line t
 
 ![Decrypted Message](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20151620.png)
 
-You can see here Tero's email address rather 
+You can see here Tero's email address rather than the other e-mail address in the previous screenshots.
 
 
 
@@ -61,6 +61,6 @@ I cracked this text in Microsoft Word. I started with the most obvious character
 
 ![Deciphering the text](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20104432.png)
 
-The final result was
+The final result was:
 
 >THAT'S IT. YOU'RE NOW OFFICIALLY A CODEBREAKER! AS YOU SEE, SIMPLE SUBSTITUTION CIPHERS CAN BE BROKEN WITH FREQUENCY ANALYSIS. SEE YOU AT HTTP://TEROKARVINEN.COM
