@@ -13,6 +13,8 @@
 ## Encrypt and Decrypt
 
 
+I referred to ![Tero's Guide](https://terokarvinen.com/2023/pgp-encrypt-sign-verify/) to try out PGP (Pretty Good Privacy). PGP is a security program used to encrypt and decrypt email and to authenticate email messages through digital signatures and file encryption. PGP was one of the first public-key cryptography softwares publicly available for free (![source](https://www.fortinet.com/resources/cyberglossary/pgp-encryption)).
+
 ## Cracking Cyphertext
 
 >HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
