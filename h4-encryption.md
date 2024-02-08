@@ -41,11 +41,13 @@ While within Alice's directory, I created a key for her, and then transferred my
 ![trusted key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20144401.png)
 
 
-I then imported Alice's key (alice.pub) and verified it myself. Now both Alice and I have eachothers public keys so we can send messages to one another and sign them to ensure we know the message has been sent by that person. As Alice, I wrote a plain text message and encrypted it, ready to send.
+I then imported Alice's key (alice.pub) and verified it myself. Now both Alice and I have eachothers public keys so we can send messages to one another and sign them to ensure we know the message has been sent by that person. As Alice, I wrote a plain text message and encrypted it, ready to send. It was at this point that I realised I made a mistake, as I had initally started this exercise using Tero's example literally and then changed my mind half way through and made a new e-mail address. At this point I realised it would be easier just to stick with Tero's email address as this was what I created first!
 
 ![encrypted message](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20150022.png)
 
+I then transferred the file, to simulate sending it, and used the command line to decrypt the message. Everything went well!
 
+![Decrypted Message]()
 
 
 
