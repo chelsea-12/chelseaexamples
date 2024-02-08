@@ -27,13 +27,13 @@ I exported my key, which looks like this:
 
 Then I went ahead and set up my second simulated user, Alice, by inputting this into the command line.
 
->$ cd
-$ mkdir alice/
-$ chmod og-rwx alice/
-$ cd alice/
-$ gpg --homedir . --fingerprint
-gpg: keybox '/home/tero/alice/pubring.kbx' created
-gpg: /home/tero/alice/trustdb.gpg: trustdb created
+>$ cd<br>
+$ mkdir alice/<br>
+$ chmod og-rwx alice/<br>
+$ cd alice/<br>
+$ gpg --homedir . --fingerprint<br>
+gpg: keybox '/home/tero/alice/pubring.kbx' created<br>
+gpg: /home/tero/alice/trustdb.gpg: trustdb created<br>
 $ gpg --homedir . --fingerprint
 
 
