@@ -41,6 +41,14 @@ While within Alice's directory, I created a key for her, and then transferred my
 ![trusted key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20144401.png)
 
 
+I then imported Alice's key (alice.pub) and verified it myself. Now both Alice and I have eachothers public keys so we can send messages to one another and sign them to ensure we know the message has been sent by that person. As Alice, I wrote a plain text message and encrypted it, ready to send.
+
+![encrypted message]()
+
+
+
+
+
 ## Cracking Cyphertext
 
 >HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
