@@ -22,7 +22,7 @@ After installing the required tools I went ahead and generated a key.
 I exported my key, which looks like this:
 
 
-[key]()
+[key](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-08%20141556.png)
 
 
 Then I went ahead and set up my second simulated user, Alice, by inputting this into the command line.
