@@ -4,7 +4,7 @@
 ## Summaries
 
 
-### Applied Cryptography
+### [Applied Cryptography](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec006)
 
 
 ### Disobey 2023
