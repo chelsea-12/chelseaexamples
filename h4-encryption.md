@@ -36,6 +36,10 @@ gpg: keybox '/home/tero/alice/pubring.kbx' created<br>
 gpg: /home/tero/alice/trustdb.gpg: trustdb created<br>
 $ gpg --homedir . --fingerprint
 
+While within Alice's directory, I created a key for her, and then transferred my public key (chelsea.pub) into Alice's directory (simulating just showing Alice this key, seeing as it is a publicly available key). As Alice, I went ahead and verified the key as trusted.
+
+![trusted key]()
+
 
 ## Cracking Cyphertext
 
