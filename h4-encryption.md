@@ -7,7 +7,13 @@
 ### [Applied Cryptography](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec006)
 
 
-- a message is referred to as **plaintext or cleartext**; the process of disguising the contents of this message is **encryption**; the disguised message is referred to a **ciphertext**; the process of turning ciphertext back to plaintext is called **decryption**
+- a message is referred to as **plaintext or cleartext**; the process of disguising the contents of this message is **encryption**; the disguised message is referred to a **ciphertext**; the process of turning ciphertext back to plaintext is called **decryption**; the art of keeping messages secure is referred to as **cryptography**
+- cryptography also refers to authentication (not allowing an intruder to masquerade as someone else), integrity (the message should not have been tampered with or replaced in transit) and nonrepudiation (a sender should not be able to falsely deny they sent a message)
+- modern cryptography generally uses an encryption and decryption key (sometimes this is the same key, and sometimes this is two different keys)
+- **cryptanalysis** is the science of retrieving the plaintext of an encrypted message without access to the key, and an attempted cryptanalysis is called an **attack**
+- the four general types of cryptanalytic attacks are: ciphertext-only attack, known-plaintext attack, chosen-plaintext attack and adapative-chosen-plaintext attack
+- the different categories of breaking an algorithm are: total break (the key is found), global deduction (an alterante algorithm is found), instance/local deduction (plaintext of an intercepted ciphertext is found), and information deduction (some information about the key or plaintext message is found)
+- 
 
 
 ### Disobey 2023
