@@ -7,6 +7,9 @@
 ### [Applied Cryptography](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/08_chap01.html#chap01-sec006)
 
 
+- a message is referred to as **plaintext or cleartext**; the process of disguising the contents of this message is **encryption**; the disguised message is referred to a **ciphertext**; the process of turning ciphertext back to plaintext is called **decryption**
+
+
 ### Disobey 2023
 
 
