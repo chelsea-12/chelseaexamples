@@ -13,7 +13,9 @@
 - **cryptanalysis** is the science of retrieving the plaintext of an encrypted message without access to the key, and an attempted cryptanalysis is called an **attack**
 - the four general types of cryptanalytic attacks are: ciphertext-only attack, known-plaintext attack, chosen-plaintext attack and adapative-chosen-plaintext attack
 - the different categories of breaking an algorithm are: total break (the key is found), global deduction (an alterante algorithm is found), instance/local deduction (plaintext of an intercepted ciphertext is found), and information deduction (some information about the key or plaintext message is found)
-- 
+- stenography is the art of hiding messages within other messages, so the existence of the original message is not even known
+- substitution cipher is when each character in a plaintext is substituted for another character in the ciphertext (Caesar cipher is the most famous example of this, the letter is replaced by the characted three to the right, eg. A replaced with D, B replaced with E)
+- a transposition cipher is when the plaintext remains the same but the order of the characters is shuffled
 
 
 ### Disobey 2023
