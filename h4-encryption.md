@@ -18,7 +18,19 @@
 - a transposition cipher is when the plaintext remains the same but the order of the characters is shuffled
 
 
-### Disobey 2023
+### [Disobey 2023 - Don't Trust The Link](https://www.youtube.com/watch?v=iluhSh4E2r8)
+
+
+- a talk by Marcus Lehtonen who works for CGI managing the Security Operations Center (SOC)
+- URL scanning - scanning for suspicious or malicious URLs and is used to fight against phishing e-mails (if something suspicious is found, the link is either blocked or an alert given to the user)
+- urlscan.io is a website where these scans can be done (remember this is a public website and scanning a URL here wil then make the URL publicly known)
+- a lot of people have done searches on this website, oftentimes these are sensitive links from within the business they are working for
+- there is a search function on the website where you can look at all previously searched websites
+- information has been leaked via this website (i.e. company details, contents of secure mail, Teams meeting links, or people scanned a link from an email and then through this website a second party has clicked the link and this results in the original person being unsubscribed from a mailing list)
+- other notable leaks from this website is leaked URLs from a OneDrive which then allows anyone to access sensitive material that has been shared from OneDrive
+- an issue with email links is that they are used a single factor authentication; there needs to be additional layers of authentication for better protection
+- how to avoid leaks like this: don't include any sensitive data in URLs, don't assume the avreage user knows how to add security, model the threats
+- websites like urlscan.io need to have responsible disclosure
 
 
 ## Encrypt and Decrypt
