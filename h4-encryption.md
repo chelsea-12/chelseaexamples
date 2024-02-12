@@ -29,7 +29,7 @@
 - information has been leaked via this website (i.e. company details, contents of secure mail, Teams meeting links, or people scanned a link from an email and then through this website a second party has clicked the link and this results in the original person being unsubscribed from a mailing list)
 - other notable leaks from this website is leaked URLs from a OneDrive which then allows anyone to access sensitive material that has been shared from OneDrive
 - an issue with email links is that they are used a single factor authentication; there needs to be additional layers of authentication for better protection
-- how to avoid leaks like this: don't include any sensitive data in URLs, don't assume the avreage user knows how to add security, model the threats
+- how to avoid leaks like this: don't include any sensitive data in URLs, don't assume the average user knows how to add security, model the threats
 - websites like urlscan.io need to have responsible disclosure
 
 
