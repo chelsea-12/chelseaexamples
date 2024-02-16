@@ -25,6 +25,9 @@
 - theory is the same as a hash function except only the person with the key can verify the hash value
 
 
+[SOURCE](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003)
+
+
 ## Installing Hashcat & Cracking a hash
 
 
