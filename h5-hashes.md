@@ -58,7 +58,13 @@ I tested out hashcat using a simple hash provided by Tero. MD5 is a very common 
 The result is saved into a file called 'solved'. Hashcat tells us we have been successful in cracking the hash, so then we open up the 'solved' file to get the result.
 
 
-![Hash 1]()
+![Hash 1](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20144057.png)
+
+
+The password is 'summer'. Next up I tried another hash in the MD5 type.
+
+
+
 
 
 
