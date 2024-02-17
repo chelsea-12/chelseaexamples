@@ -109,4 +109,4 @@ Within minutes I was able to test it out and set up my first password. I navigat
 I was immediately able to view it in my Norton dashboard.
 
 
-![Norton Dashboard]()
+![Norton Dashboard](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20153033.png)
