@@ -67,7 +67,7 @@ The password is 'summer'. Next up I tried another hash in the MD5 type. Here I w
 ![cracking a hash](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20144633.png)
 
 
-
+![hash is cracked](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20144650.png)
 
 
 
