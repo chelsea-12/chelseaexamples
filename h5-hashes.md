@@ -77,3 +77,9 @@ The answer is 'february'.
 
 
 ## Password Manager
+
+
+[Forbes](https://www.forbes.com/advisor/business/software/best-free-password-manager/#:~:text=The%20Best%20Free%20Password%20Managers%20of%202024%201,for%20programmers%205%20LastPass%3A%20Best%20single-user%20password%20manager) lists these as the top five free password managers in 2024:
+
+
+>Norton<br>Dashlane<br>Bitwarden<br>KeePass<br>LastPass
