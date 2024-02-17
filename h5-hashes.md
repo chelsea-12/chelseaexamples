@@ -43,7 +43,10 @@ I followed that up with creating a new directory for me to work from:
 >mkdir hashed<br>cd hashed
 
 
+Now that it's all downloaded and I've created a directory, I next downloaded a password dictionary containing over 14 million possible passwords, called 'rockyou'. This will be the best basis to try and crack a password hash.
 
+
+![Hashcat](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20143735.png)
 
 
 ## Password Manager
