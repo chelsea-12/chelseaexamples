@@ -88,7 +88,10 @@ The answer is 'february'.
 Norton is listed as the 'best overall', so I decided to take a closer look at that one.
 
 
-Norton is installed as a browser extension, so I installed it on my Firefox browser straight from their website.
+Norton is installed as a browser extension, so I installed it on my Firefox browser straight from their website. This was a very quick and easy process.
+
+
+![Norton](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20152050.png)
 
 
 
