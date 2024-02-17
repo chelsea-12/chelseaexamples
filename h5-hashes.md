@@ -110,3 +110,10 @@ I was immediately able to view it in my Norton dashboard.
 
 
 ![Norton Dashboard](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20153033.png)
+
+
+Password managers help you to keep track of a number of different passwords for different logins - this way you should be able to choose unique and hard to guess passwords for every single login, rather than reusing a password for multiple logins. Therefore they protect against the threat of hackers guessing your passwords, or finding out a password from an easy to hack website and then using that password to try and log into higher security websites (e-mail, bank accounts etc.).
+
+In addition to that, Norton will also look through the dark web for any password leaks and notify you if any of your passwords show up.
+
+A password manager will automatically fill in your log in details on recognised websites - therefore if you click a phising link which takes you to a false website, it will not fill in your details there. Furthermore, automatically filling in a password can help protect you from the threat of keyloggers which monitors your keystrokes.
