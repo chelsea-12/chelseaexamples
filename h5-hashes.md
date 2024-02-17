@@ -83,3 +83,12 @@ The answer is 'february'.
 
 
 >Norton<br>Dashlane<br>Bitwarden<br>KeePass<br>LastPass
+
+
+Norton is listed as the 'best overall', so I decided to take a closer look at that one.
+
+
+Norton is installed as a browser extension, so I installed it on my Firefox browser straight from their website.
+
+
+
