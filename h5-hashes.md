@@ -31,4 +31,19 @@
 ## Installing Hashcat & Cracking a hash
 
 
+I followed Tero's tutorial [here](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/) to install and try out Hashcat on my Linux computer. After doing my general update of apps, I entered this command to the command line in order to install hashcat:
+
+
+>sudo apt-get -y install hashid hashcat wget
+
+
+I followed that up with creating a new directory for me to work from:
+
+
+>mkdir hashed<br>cd hashed
+
+
+
+
+
 ## Password Manager
