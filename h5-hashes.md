@@ -49,7 +49,7 @@ Now that it's all downloaded and I've created a directory, I next downloaded a p
 ![Hashcat](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20143735.png)
 
 
-I tested out hashcat using a simple hash provided by Tero. MD5 is a very common hash type, and so is the only hash type I have tested hashcat out with. Within Hashcat this hash has the mode 0 related to it, so to try and crack the hash we insert:
+I tested out hashcat using a simple hash provided by Tero. MD5 is a very common hash type, and so is the only hash type I have tested hashcat out with. Within Hashcat this hash has the mode 0 related to it, so to try and crack the hash we insert (the string of numbers and letters is the hash):
 
 
 >hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
@@ -61,7 +61,10 @@ The result is saved into a file called 'solved'. Hashcat tells us we have been s
 ![Hash 1](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20144057.png)
 
 
-The password is 'summer'. Next up I tried another hash in the MD5 type.
+The password is 'summer'. Next up I tried another hash in the MD5 type. Here I will provide a series of screenshots, so you can see how I did it.
+
+
+![cracking a hash](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20144633.png)
 
 
 
