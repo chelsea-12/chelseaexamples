@@ -49,4 +49,19 @@ Now that it's all downloaded and I've created a directory, I next downloaded a p
 ![Hashcat](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20143735.png)
 
 
+I tested out hashcat using a simple hash provided by Tero. MD5 is a very common hash type, and so is the only hash type I have tested hashcat out with. Within Hashcat this hash has the mode 0 related to it, so to try and crack the hash we insert:
+
+
+>hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
+
+
+The result is saved into a file called 'solved'. Hashcat tells us we have been successful in cracking the hash, so then we open up the 'solved' file to get the result.
+
+
+![Hash 1]()
+
+
+
+
+
 ## Password Manager
