@@ -103,4 +103,10 @@ I then needed to create an account, and set up a vault password.
 Within minutes I was able to test it out and set up my first password. I navigated to (app.terokarvinen.com) and put in my log in details. Then a new window from Norton popped up asking if I wanted to save this password to my vault.
 
 
-![Password]()
+![Password](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20153002.png)
+
+
+I was immediately able to view it in my Norton dashboard.
+
+
+![Norton Dashboard]()
