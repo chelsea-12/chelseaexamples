@@ -112,8 +112,19 @@ I was immediately able to view it in my Norton dashboard.
 ![Norton Dashboard](https://github.com/chelsea-12/chelseaexamples/blob/main/Screenshot%202024-02-17%20153033.png)
 
 
-Password managers help you to keep track of a number of different passwords for different logins - this way you should be able to choose unique and hard to guess passwords for every single login, rather than reusing a password for multiple logins. Therefore they protect against the threat of hackers guessing your passwords, or finding out a password from an easy to hack website and then using that password to try and log into higher security websites (e-mail, bank accounts etc.).
+Password managers help you to keep track of a number of different passwords for different logins - this way you should be able to choose unique and hard to guess passwords for every single login, rather than reusing a password for multiple logins. Therefore they protect against the threat of hackers guessing your passwords, or finding out a password from an easy to hack website and then using that password to try and log into higher security websites (e-mail, bank accounts etc.). <br>
+In addition to that, Norton will also look through the dark web for any password leaks and notify you if any of your passwords show up.<br>
+A password manager will automatically fill in your log in details on recognised websites - therefore if you click a phishing link which takes you to a false website, it will not fill in your details there. Furthermore, automatically filling in a password can help protect you from the threat of keyloggers which monitors your keystrokes.
 
-In addition to that, Norton will also look through the dark web for any password leaks and notify you if any of your passwords show up.
 
-A password manager will automatically fill in your log in details on recognised websites - therefore if you click a phising link which takes you to a false website, it will not fill in your details there. Furthermore, automatically filling in a password can help protect you from the threat of keyloggers which monitors your keystrokes.
+The encrypted information is the password and usernames, whereas unencrypted information includes modification dates, country code for address formatting, favorite markings, and password hints. These are unencrypted for necessary functional purposes.
+
+
+Norton Password Manager is free, and only required that I set up a free account with Norton. This password manager is cloud based, and Norton maintains their own clouder servers all around the world.
+
+
+Data is encrypted with 256-bit AES encryption, basic two-factor authentication and TLS secure connections. No Norton employee is able to access your passwords, and the unencrypted data is only viewable by you. The use of a master password can be an issue however - if you forget this password there is no way to retrieve it. Similarily, if someone were to guess you master password, they would then have access to your password vault.
+
+
+SOURCES:<br>[Forbes](https://www.forbes.com/sites/forbestechcouncil/2022/01/20/are-password-managers-safe/)<br>
+[PC Mag](https://uk.pcmag.com/password-managers/117939/symantec-norton-password-manager)
