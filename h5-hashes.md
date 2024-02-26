@@ -123,7 +123,7 @@ The encrypted information is the password and usernames, whereas unencrypted inf
 Norton Password Manager is free, and only required that I set up a free account with Norton. This password manager is cloud based, and Norton maintains their own clouder servers all around the world.
 
 
-Data is encrypted with 256-bit AES encryption, basic two-factor authentication and TLS secure connections. No Norton employee is able to access your passwords, and the unencrypted data is only viewable by you. The use of a master password can be an issue however - if you forget this password there is no way to retrieve it. Similarily, if someone were to guess you master password, they would then have access to your password vault.
+Data is encrypted with 256-bit AES encryption, basic two-factor authentication and TLS secure connections. No Norton employee is able to access your passwords, and the unencrypted data is only viewable by you. The use of a master password can be an issue however - if you forget this password there is no way to retrieve it. Similarily, if someone were to guess your master password, they would then have access to your password vault.
 
 
 SOURCES:<br>[Forbes](https://www.forbes.com/sites/forbestechcouncil/2022/01/20/are-password-managers-safe/)<br>
