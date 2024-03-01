@@ -45,3 +45,33 @@ I extracted the file. I did not need to change permissions on it, and simply dou
 
 
 # Browsing Tor
+
+
+## Search Engine for Onion Sites
+
+
+Ahmia
+![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/f15cf2d3-2d38-46c9-8581-83a09b763e17)
+
+
+## Marketplace
+
+
+Tor Amazon
+![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/d2482f69-f1b4-42d4-9521-235a4ebac877)
+
+
+## Forum
+
+
+Dread
+![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/0aaeb99e-abb6-4eac-be18-2f562cb2de54)
+
+
+
+## A site for a well-known organisation that has a physical address in the real world
+
+
+BBC News
+![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/54cdf139-1516-44f6-b647-540aed2df033)
+
