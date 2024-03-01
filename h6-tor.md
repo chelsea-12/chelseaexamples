@@ -34,7 +34,10 @@
 ## Installing Tor
 
 
-I installed Tor during class time. It was a very easy and quick process, and I was actually surprised by how few steps there were.
+I installed Tor during class time. It was a very easy and quick process, and I was actually surprised by how few steps there were. I used [this](https://tb-manual.torproject.org/installation/) website to help me.
+
+
+First, I downloaded Tor for Linux from [here](https://www.torproject.org/download/) ![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/b7e963e2-c8df-4449-936e-ea04326b9773)
 
 
 # Browsing Tor
