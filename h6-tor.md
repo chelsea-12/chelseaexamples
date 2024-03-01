@@ -39,5 +39,9 @@ I installed Tor during class time. It was a very easy and quick process, and I w
 
 First, I downloaded Tor for Linux from [here](https://www.torproject.org/download/) ![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/b7e963e2-c8df-4449-936e-ea04326b9773)
 
+I extracted the file. I did not need to change permissions on it, and simply double clicked on the icon and Tor started working.
+
+![image](https://github.com/chelsea-12/chelseaexamples/assets/144318656/e2a84433-617d-4f5a-9849-a42cef374bec)
+
 
 # Browsing Tor
