@@ -24,9 +24,17 @@
 - can be used for a lot of legitimate purposes, but also for criminal activities
 - originally developed by the US government, but not currently controlled by them; it is open for anyone to improv upon if they can
 - Tor directs the route of a user’s Internet traffic through random relays on the Internet
+- data is layered with elliptic curve cryptography which is currently unbreakable with brute force
+- data is sent through three layers; after the first 2 relays a layer of encryption is shed each time and then finally in the 3rd relay there is an unencrypted connection with the host target
+- every 10 minutes a new random route to the target is chosen
+- breaking Tor has not happened, but exploiting user errors have led to arrests
+- the best thing a Tor user can do is to not customise the browser
 
 
 ## Installing Tor
+
+
+I installed Tor during class time. It was a very easy and quick process, and I was actually surprised by how few steps there were.
 
 
 # Browsing Tor
