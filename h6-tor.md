@@ -16,7 +16,7 @@
 - Tor is still not 100% safe and caution does need to be taken with it's usage (e.g. keeping it up-to-date, using browser bundle or tails)
 
 
-### [The Tor Browser9](https://www.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010)
+### [The Tor Browser](https://www.oreilly.com/library/view/hiding-behind-the/9780128033524/XHTML/B9780128033401000021/B9780128033401000021.xhtml#s0010)
 
 
 - Tor (otherwise known as The Onion Router) was developed by modifying Firefox, and works by hiding the true IP of the users, making them difficult to track
