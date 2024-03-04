@@ -22,7 +22,7 @@
 - Tor (otherwise known as The Onion Router) was developed by modifying Firefox, and works by hiding the true IP of the users, making them difficult to track
 - a lot of it's success comes from how easy it is to use
 - can be used for a lot of legitimate purposes, but also for criminal activities
-- originally developed by the US government, but not currently controlled by them; it is open for anyone to improv upon if they can
+- originally developed by the US government, but not currently controlled by them; it is open for anyone to improve upon if they can
 - Tor directs the route of a user’s Internet traffic through random relays on the Internet
 - data is layered with elliptic curve cryptography which is currently unbreakable with brute force
 - data is sent through three layers; after the first 2 relays a layer of encryption is shed each time and then finally in the 3rd relay there is an unencrypted connection with the host target
