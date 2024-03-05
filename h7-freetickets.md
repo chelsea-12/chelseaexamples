@@ -18,5 +18,8 @@
 - part of their research was to watch/read over 200 different SciFi movies/TV shows/books/comics etc.
 - they then analysed the type of hacking shown in each of these: around 25% was spying, 25% was attacking things and the majority was about influencing people. The government is the main target in these, followed by the military and then civilians.
 - they followed this up with studying over 1000 real life hacking attacks to compare: over 80% was spying government data, and very little of it was attacking or destroying things in direct contrast to what is mainly seen in SciFi
-- however over the past 10 years there has been an increase in attacks (pipeline explosions etc.) so the speaker believes this is mirroring what is mainly seen in SciFi
-- so can we look at SciFi to figure out how to protect ourselves from these types of attacks
+- however over the past 10 years there has been an increase in attacks (pipeline explosions, Stuxnet etc.) so the speaker believes this is mirroring what is mainly seen in SciFi
+- can we look at SciFi to figure out how to protect ourselves from these types of attacks
+- a 2012 TV show portrayed the murder of the US Vice President by hacking into his pacemaker; in 2013 Dick Cheney removed the wireless features of his pacemaker as it was seen as a valid threat. In 2017 there was a recall of 1/2 million pacemakers to patch them as they were vulnerable to be hacked
+- the thought is that attacks will continue to happen and increase, and his idea was that we can produce SciFi content aimed around this and come up with ideas for how we would like to protect ourselves from this so innovation can occur, and to raise more awareness to the public
+- we can shape the future of cyber defence with SciFi
